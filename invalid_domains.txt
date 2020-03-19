@@ -1,0 +1,51 @@
+Domain:	001union.com
+DNS:	8.8.8.8
+Info:	No answer
+Count:	-1
+Error:	System error.
+--------------------------------------------------------------
+Domain:	zuoche.com
+DNS:	8.8.8.8
+Info:	No answer
+Count:	-1
+Error:	System error.
+--------------------------------------------------------------
+Domain:	soso.com
+DNS:	8.8.8.8
+Info:	No answer
+Count:	-1
+Error:	System error.
+--------------------------------------------------------------
+Domain:	ehvacr.com
+DNS:	8.8.8.8
+Info:	No answer
+Count:	-1
+Error:	System error.
+--------------------------------------------------------------
+Domain:	kandian.com
+DNS:	8.8.8.8
+Info:	No answer
+Count:	-1
+Error:	System error.
+--------------------------------------------------------------
+Domain:	china-tvro.com
+DNS:	8.8.8.8
+Info:	Non-authoritative answer
+Count:	1
+NS => primary name server = 
+responsible mail addr = hostmaster.nameserver
+serial  = 140
+refresh = 21600
+retry   = 1800
+expire  = 604800
+default TTL = 5
+Error:	NONE.
+[V]: ns->responsible mail addr, Error->No such host is known
+[V]: validate domian fail.
+--------------------------------------------------------------
+Domain:	ipwind.cn
+DNS:	8.8.8.8
+Info:	Non-authoritative answer
+Count:	0
+Error:	NONE.
+--------------------------------------------------------------

@@ -1,0 +1,6 @@
+||baifendian.com^$third-party
+||image.gfan.com/logo/*$image
+||cdn2.image.apk.gfan.com/asdf/PImages/*
+
+bbs.gfan.com##.bm[style="margin-bottom:3px;"]
+bbs.gfan.com##TD[align="center"]

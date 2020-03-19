@@ -1,0 +1,147 @@
+[Adblock Plus 2.1]
+!  Checksum: W+73jMMvRelWSgBKtErSwg
+!  Title: adblock-mylist
+!  Adblock Plus List with Main Focus on Chinese Sites.
+!  Last Modified:  Mon, 09 Feb 2015 20:35:48 +0800
+!  Homepage: http://adblock-mylist.googlecode.com/
+!
+!  coding: utf-8, expires: 5 days
+!----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
+!----------------------------White List--------------------
+
+!---Shopping websites
+
+
+!----------------------------Well-known Sites--------------
+http://hi.bdimg.com/static/qcenter/js/seeyou.js
+|http://www.google-analytics.com/urchin.js
+.ppcuser.com/images/ppcgg/$image
+|http://ip.ipwind.cn/*
+|http://wpa.qq.com/pa?*
+|http://pic.jdunion.com/ad/gif/BT-Audio-3.gif
+|http://cnsat.net/pictuer/*
+|http://img.cnbeta.com/youdao576.gif
+/jscript/showggsearch.js$domain=shooter.cn,script
+|http://www.001union.com/*
+|http://bbs.china-tvro.com/images/toplist/trimaxtv3500.swf
+|http://bbs.china-tvro.com/images/toplist/trimaxtv.swf
+|http://www.cnsat.net/pictuer/*$image
+|http://dw.xcar.com.cn/analytics.php?*
+||xltvrobbs.net/tuku/*
+||w3.geekpark.net/pa/*
+||i.wotula.com^
+||help.n3.com.cn/data/attachment/common/cf/*
+||bbs.n3.com.cn/data/attachment/common/cf/*
+||img1.ehvacr.com^
+||jinbaidu.com^
+tool.114la.com/live/myip^$image,third-party
+||img.kuai.xunlei.com/js/webxunlei.js$script,third-party
+/static/js/qshare.js^$script
+||bq.soso.com/js/sosoexp_platform.js$script,third-party
+||5432168.com^$third-party
+||shumilou.com/style/aadd.js$script
+||webdissector.com/js/Clients/$third-party
+||gridsumdissector.com^$third-party
+/TrackWeb/event-min.js$script,third-party
+/TrackWeb/Const.js$script,third-party
+
+!--??????
+||baifendian.com^$third-party
+||image.gfan.com/logo/2012/liz*$image
+||cdn2.image.apk.gfan.com/asdf/PImages/*
+bbs.gfan.com##.bm[style="margin-bottom:3px;"]
+bbs.gfan.com##TD[align="center"]
+
+!--bbs.51nb.com
+|http://forum.51nb.com/images/sitead2.gif$image
+/forum/images/*$domain=51nb.com|thinkpad.cn|ibmnb.com,image
+@@/forum/images/default/*$domain=51nb.com|thinkpad.cn|ibmnb.com,image
+@@/forum/images/smilies/*$domain=51nb.com|thinkpad.cn|ibmnb.com,image
+51nb.com##TD[width="16.6%"][style="overflow: hidden;"]
+51nb.com##TD[valign="middle"][align="left"]
+51nb.com##TD.line[style="padding: 5px;"]
+
+!--123cha.com
+||123cha.com/counter.js$script
+||123cha.com/i_780X60_1.gif
+||123cha.com/678-780x60zz.gif
+
+!--speedtest.net
+speedtest.net/ookla/js/qa/ookla-commerce.js?*$script
+speedtest.net/flash/standard-wide-new-1button.swf?*$object-subrequest
+speedtest.net##.ad-vertical-container.ad-vertical-stacked.no-shadow
+
+!----------------------------Generic(sort by domain name)--
+!---Blog Sites
+
+
+!---Download Sites
+
+
+!---Game Sites
+
+
+!---News Sites
+
+
+!---Online Novel/Comic Sites
+
+
+!---Private Sites
+
+
+!---RSS
+
+
+!---Video Sites
+
+
+!---Miscellaneous
+
+
+!----------------------------ads-union---------------------
+!--baidu
+||hm.baidu.com$third-party
+||iwangmeng.baidu.com$third-party
+||cas.baidu.com/img$third-party
+||yingxiao.baidu.com$third-party
+
+!--sort by domain
+||678056.com^$third-party
+
+!----------------------------Other (sort by letter)--------
+
+
+!-----------------------------Privacy----------------------
+!--google analytics
+||google-analytics.com/ga.js$third-party
+||open.phpwind.com^$third-party
+
+!-------------------------anti social----------------------
+!--baidu
+||share.baidu.com$third-party
+!--qq
+||sns.qzone.qq.com$third-party
+||share.v.t.qq.com$third-party
+||connect.qq.com$third-party
+||graph.qq.com$third-party
+||openapi.qzone.qq.com$third-party
+||s.pc.qq.com^$third-party
+||openapi.guanjia.qq.com^$third-party
+||pc1.gtimg.com/js/*$third-party
+!--sina
+!||sinajs.cn^$third-party
+!--sort by domain
+||uyan.cc^$third-party
+||jiathis.com^$third-party
+
+
+!-----------------------Element Hiding---------------------
+club.autohome.com.cn##DIV#ad_thread1_1 + *
+##*#ad_text + * > *#focus
+hi.baidu.com###\5f XQing1_entity
+
+!-----------------------Temporary---------------------------
+
+
+!------------------------End of List-------------------------
