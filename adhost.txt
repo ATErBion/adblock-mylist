@@ -23,6 +23,11 @@ api.97ting.com
 ||whotracks.me^
 ||qchannel01.cn^
 
+#勾正数据服务
+gzads.com
+gozendata.com
+gz-data.com
+
 #北京龙创悦动科技有限公司（别称：IM30.NET）
 ||im30app.cn^
 
@@ -48,7 +53,6 @@ launches.appsflyer.com
 ||umeng.com^
 ||umengcloud.com^
 ||wrating.com^
-
 
 #youku
 acs.youku.com
